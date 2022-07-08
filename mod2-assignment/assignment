@@ -4,7 +4,9 @@
 	  <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	  <title>Module 2 Assignment</title>
+    <style>
     <link rel="styles" href="mod2-assignment/styles.properties">
+    </style>
   </head>
 <body>
   <div class="row">
